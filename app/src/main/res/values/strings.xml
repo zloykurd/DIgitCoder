@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Вычисление</string>
+    <string name="action_settings">Настройки</string>
+    <string name="sqrt">sqrt</string>
+    <string name="pow">pow</string>
+    <string name="sincostan">sincostan</string>
+    <string name="asin">asin</string>
+    <string name="max">max</string>
+    <string name="min">min</string>
+    <string name="round">round</string>
+    <string name="summ">summ</string>
+    <string name="arpu">arpu</string>
+    <string name="chetnoe_ne_chetnoe">chetnoe_ne_chetnoe</string>
+    <string name="ffor">for</string>
+
+</resources>

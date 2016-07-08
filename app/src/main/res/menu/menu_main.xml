@@ -1,0 +1,61 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.zloykurd.mathapp.MainActivity">
+    <item
+        android:id="@+id/sqrt"
+        android:orderInCategory="100"
+        android:title="@string/sqrt"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/pow"
+        android:orderInCategory="101"
+        android:title="@string/pow"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/sincostan"
+        android:orderInCategory="102"
+        android:title="@string/sincostan"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/asin"
+        android:orderInCategory="103"
+        android:title="@string/asin"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/max"
+        android:orderInCategory="104"
+        android:title="@string/max"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/min"
+        android:orderInCategory="105"
+        android:title="@string/min"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/round"
+        android:orderInCategory="106"
+        android:title="@string/round"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/summ"
+        android:orderInCategory="106"
+        android:title="@string/summ"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/arpu"
+        android:orderInCategory="106"
+        android:title="@string/arpu"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/chetnoe_ne_chetnoe"
+        android:orderInCategory="106"
+        android:title="@string/chetnoe_ne_chetnoe"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/ffor"
+        android:orderInCategory="106"
+        android:title="@string/ffor"
+        app:showAsAction="never" />
+
+</menu>
